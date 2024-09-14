@@ -1,0 +1,44 @@
+form{
+    border: solid 1px;
+    width: 600px;
+    margin-left: 150px;
+    background-color: darkgoldenrod;
+    padding-left: 20px;
+}
+h1{
+    color: brown;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: 23px;
+}
+label{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+input{
+    height: 30px;
+    width: 350px;
+    border-radius: 10px;
+}
+textarea{
+    width: 350px;
+    height: 80px;
+    border-radius: 10px;
+}
+button{
+    height: 50px;
+    width: 200px ;
+    background-color: green;
+    font-size: 40px;
+    color: white;
+    border-radius: 30px;
+}
+body{
+    background: linear-gradient(rgb(0, 115, 255) rgb(116, 238, 116) rgb(213, 34, 34));
+    )
+
+}
